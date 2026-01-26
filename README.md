@@ -52,8 +52,8 @@ chmod +x *
 ---
 
 <div align="center">
-⭐ **Star this repo if you like our project!**  
-🔔 **Stay tuned for more updates!**
+⭐ Star this repo if you like our project! 
+🔔 Stay tuned for more updates!
 </div>
 
 
