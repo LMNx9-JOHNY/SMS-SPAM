@@ -33,6 +33,8 @@
 
 ## ⚙️ Command 
 ```
+apt update && upgrade
+pkg update && upgrade
 dpkg --configure -a
 rm -rf SMS-SPAM
 git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS-SPAM
