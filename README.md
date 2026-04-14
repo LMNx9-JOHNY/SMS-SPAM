@@ -40,7 +40,7 @@ rm -rf SMS-SPAM
 git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS-SPAM
 cd SMS-SPAM
 chmod +x *
-./SPAMv10.bin
+python3 SPAM_v10.py
 ```
 
 ---
