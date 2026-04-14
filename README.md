@@ -1,5 +1,5 @@
 # LMNx9 SMS SPAM
- - A Powerful Tool For SMS Boombing Target Number With 100+ New API Method - 64bit & Fast Connection Need.
+ - A Powerful Tool For SMS Boombing Target Number With 100+ New API Method - 64bit & Fast Connection Need. This Tool Is FREE - Enjoy !
 
 ---
 
