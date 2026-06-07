@@ -8,7 +8,7 @@
 </p>
 <div align="center">
 <div style="display: inline-flex; gap: 15px; margin: 20px 0; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/Version-v10.0-ff6b6b?style=for-the-badge&logo=git&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v11.0-ff6b6b?style=for-the-badge&logo=git&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/API-100+-00b894?style=for-the-badge&logo=api&logoColor=white" alt="API">
   <img src="https://img.shields.io/badge/Powerful-ff9f43?style=for-the-badge&logo=hammer&logoColor=white" alt="Powerful">
   <img src="https://img.shields.io/badge/Fast-0abde3?style=for-the-badge&logo=speedtest&logoColor=white" alt="Fast">
@@ -40,7 +40,7 @@ rm -rf SMS-SPAM
 git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS-SPAM
 cd SMS-SPAM
 chmod +x *
-python3 SPAM_v10.py
+python3 SPAM_v11.py
 ```
 
 ---
